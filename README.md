@@ -23,7 +23,7 @@ Press the play button to see the game in action. You’ll notice that it’s not
 
 In this practical, you will write a script that implements the control mechanism for the maze game. As mentioned above, the ball should be moved through the maze by tilting the maze (i.e. rotating it around its x and z axes). The video below demonstrates this form of interaction:
 
-EMBED INCLUDE THE VIDEO HERE
+https://www.youtube.com/watch?v=4gN5gCQO_g8
 
 The tilting should be controlled using Horizontal and Vertical axes of the Unity input system, which by default is mapped to the allow keys and, e.g., the analogue stick of a game pad. You should make your script so that movement on the horizontal axis (left / right) controls tilting around the z-axis and movement on the vertical axis (up / down) controls tilting around the x-axis.
 
