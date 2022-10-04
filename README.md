@@ -44,7 +44,7 @@ transform.rotation = Quaternion.Euler(xRotation, yRotation, zRotation);
 
 If you complete task 2 before the end of the practical, or would like to improve your work in your free study time, then you should consider implementing scripts that add the following extensions to the rolling ball maze game:
 
--	Restart the level when the ball falls down the hole. See the following link for how to restart the current level: http://answers.unity3d.com/questions/198878/restart-current-level.html
+-	Restart the level when the ball falls down the hole. See the following link for how to restart the current level: https://gist.github.com/NovaSurfer/e96f3777ca7a4c46f391634ec65dc695
 -	Play a sound when the ball is rolling, where the volume of the sound increases with the velocity of the ball. This sound might be a good asset to use, after some quick editing in Audition: https://www.freesound.org/people/scotru/sounds/34732/
 - We've used Unity's classic input system in the practical because it's a bit easier to get started with. However, why not try out their new input system, which is a bit more complex but also more powerful: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/QuickStartGuide.html
 
