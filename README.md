@@ -12,8 +12,8 @@ By the end of this practical you will:
 
 To get started, make a copy of this repository on your GitHub account and clone it onto your local computer. You can do this by:
 
-Clicking the "Use this template" button at the top-right on the page
-Following the instructions in the week 1 section of the VLE to clone a repository onto your local computer
+- Clicking the "Use this template" button at the top-right on the page
+- Following the instructions in the week 1 section of the VLE to clone a repository onto your local computer
 
 The project contains a ready-made scene for a rolling ball maze game, which comprises a textured model of a maze and a physics-enabled ball. The object of the game is to roll the ball into the hole by ‘tilting’ the maze.  
 
