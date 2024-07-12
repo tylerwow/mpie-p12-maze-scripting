@@ -9,7 +9,7 @@ By the end of this practical you will:
 -	Be able to manipulate a Game Object’s transform from a script
 
 > [!CAUTION]
-> If you aren't familiar with the C# language and haven't completed [this tutorial](https://github.com/UoY-IM-MPIE/mpie-cs-tutorial) on how to transition from JavaScript to C# then we strongly reccomend that you do this before beginning the exercises below.
+> If you aren't familiar with the C# language and haven't completed [this tutorial](https://github.com/UoY-IM-MPIE/mpie-cs-tutorial) on how to transition from JavaScript to C# then we strongly recommend that you do this before beginning the exercises below.
 
 ## Task 1: Download and Run the Base Project
 
