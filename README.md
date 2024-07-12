@@ -8,6 +8,9 @@ By the end of this practical you will:
 -	Be able to read input data from a keyboard and control pad and use it in a script
 -	Be able to manipulate a Game Object’s transform from a script
 
+> [!CAUTION]
+> If you aren't familiar with the C# language and haven't completed [this tutorial](https://github.com/UoY-IM-MPIE/mpie-cs-tutorial) on how to transition from JavaScript to C# then we strongly reccomend that you do this before beginning the exercises below.
+
 ## Task 1: Download and Run the Base Project
 
 To get started, make a copy of this repository on your GitHub account and clone it onto your local computer. You can do this by:
