@@ -39,7 +39,7 @@ When implementing your script, you may wish to consult the following pages in th
 
 You may also find it useful to consult the following code snippet, which demonstrates how to set the rotation component of a Game Object’s transform in degrees:
 
-```
+```csharp
 transform.rotation = Quaternion.Euler(xRotation, yRotation, zRotation);
 ```
 
